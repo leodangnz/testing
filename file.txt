@@ -1,1 +1,3 @@
 Loc created file.txt
+
+Loc added this line to file.txt in "update" branch
